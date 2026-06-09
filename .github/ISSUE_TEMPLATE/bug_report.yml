@@ -1,0 +1,44 @@
+name: Bug Report
+description: Report a problem with an Emblyx product
+title: "[BUG] "
+labels:
+  - bug
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, please include:
+        - Product ID
+        - Hardware Revision
+        - Firmware Version
+
+        You can find this information in:
+        - ESP32 RainMaker → Node ID & Information
+        - Web Dashboard → Statistics
+
+  - type: textarea
+    id: issue
+    attributes:
+      label: What happened?
+      description: Describe the issue and how to reproduce it.
+      placeholder: |
+        Product ID:
+        Firmware Version:
+        Hardware Revision:
+
+        Description:
+
+        Steps to reproduce:
+
+        Expected behavior:
+
+        Actual behavior:
+    validations:
+      required: true
+
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Logs, Screenshots or Videos
+      description: Drag and drop files here if available.
