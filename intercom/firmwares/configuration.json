@@ -2,12 +2,12 @@
   "Configurations": [
     {
       "SW_Version": "3.7.0",
-      "HW_Revision": "3.0.0",
+      "HW_Revision": "3.1.0",
       "REL_Type": "official"
     },
     {
       "SW_Version": "3.7.0",
-      "HW_Revision": "3.1.0",
+      "HW_Revision": "3.0.0",
       "REL_Type": "official"
     }
   ]
