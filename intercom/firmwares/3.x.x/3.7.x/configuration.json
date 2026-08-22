@@ -74,6 +74,11 @@
       "SW_Version": "3.7.14",
       "HW_Revision": "3.x.x",
       "REL_Type": "official"
+    },
+    {
+      "SW_Version": "3.7.15",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "official"
     }
   ]
 }
