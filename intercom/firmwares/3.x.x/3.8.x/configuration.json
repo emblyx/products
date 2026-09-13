@@ -1,0 +1,9 @@
+﻿{
+  "Configurations": [
+    {
+      "SW_Version": "3.8.0",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "official"
+    }
+  ]
+}
