@@ -59,6 +59,21 @@
       "SW_Version": "3.8.11",
       "HW_Revision": "3.x.x",
       "REL_Type": "official"
+    },
+    {
+      "SW_Version": "3.8.12",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "beta"
+    },
+    {
+      "SW_Version": "3.8.13",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "beta"
+    },
+    {
+      "SW_Version": "3.8.14",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "official"
     }
   ]
 }
