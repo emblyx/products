@@ -84,6 +84,31 @@
       "SW_Version": "3.8.16",
       "HW_Revision": "3.x.x",
       "REL_Type": "official"
+    },
+    {
+      "SW_Version": "3.8.17",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "official"
+    },
+    {
+      "SW_Version": "3.8.18",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "official"
+    },
+    {
+      "SW_Version": "3.8.19",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "official"
+    },
+    {
+      "SW_Version": "3.8.20",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "official"
+    },
+    {
+      "SW_Version": "3.8.21",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "official"
     }
   ]
 }
