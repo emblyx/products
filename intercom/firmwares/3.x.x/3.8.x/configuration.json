@@ -144,6 +144,36 @@
       "SW_Version": "3.8.29",
       "HW_Revision": "3.x.x",
       "REL_Type": "official"
+    },
+    {
+      "SW_Version": "3.8.30",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "beta"
+    },
+    {
+      "SW_Version": "3.8.31",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "beta"
+    },
+    {
+      "SW_Version": "3.8.32",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "beta"
+    },
+    {
+      "SW_Version": "3.8.33",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "official"
+    },
+    {
+      "SW_Version": "3.8.34",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "official"
+    },
+    {
+      "SW_Version": "3.8.35",
+      "HW_Revision": "3.x.x",
+      "REL_Type": "official"
     }
   ]
 }
